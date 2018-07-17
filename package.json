@@ -1,0 +1,9 @@
+{
+  "name": "attune-js",
+  "version": "1.0.0",
+  "description": "Trigger a callback after multiple simultaneous network requests or asynchronous events.",
+  "main": "index.js",
+  "repository": "https://github.com/craigdanj/attune-js.git",
+  "author": "<craigdanj@gmail.com>",
+  "license": "MIT"
+}
