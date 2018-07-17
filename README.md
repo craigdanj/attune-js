@@ -1,2 +1,2 @@
 # attune-js
-Helps you trigger a callback after the completion of more than one simultaneous asynchronous events.
+Trigger a callback after multiple simultaneous asynchronous events.
